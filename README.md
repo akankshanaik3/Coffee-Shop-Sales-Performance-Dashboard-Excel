@@ -6,7 +6,7 @@ An interactive **Coffee Shop Sales Performance Dashboard** built using **Microso
 
 ## 📸 Dashboard Preview
 
-> *(Upload your main dashboard screenshot here)*
+![Coffee Shop Sales Dashboard](Images/Dashboard.png)
 
 ---
 
@@ -97,15 +97,15 @@ The dashboard enables users to explore sales performance dynamically using inter
 
 ### Main Dashboard
 
-*(Insert Dashboard.png)*
+(Images/Dashboard.png)
 
 ### Dashboard with Filters Applied
 
-*(Insert Dashboard_Filtered.png)*
+(Images/Filtered_Dashboard.png)
 
 ### Dashboard Insights
 
-*(Insert Dashboard_Insights.png)*
+(Images/Data_Sheet.png)
 
 ---
 
