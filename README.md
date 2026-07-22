@@ -97,15 +97,15 @@ The dashboard enables users to explore sales performance dynamically using inter
 
 ### Main Dashboard
 
-(Images/Dashboard.png)
+Images/Dashboard.png
 
 ### Dashboard with Filters Applied
 
-(Images/Filtered_Dashboard.png)
+Images/Filtered_Dashboard.png
 
 ### Dashboard Insights
 
-(Images/Data_Sheet.png)
+Images/Data_Sheet.png
 
 ---
 
